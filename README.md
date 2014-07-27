@@ -1,4 +1,0 @@
-RprogrammingML
-==============
-
-Machine Learning Assignment
